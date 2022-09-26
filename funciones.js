@@ -2,17 +2,12 @@ function mostrarCamposEdades()//Hacerlo usando el this!!!
 {
 	var objeto_select=document.getElementById("num_ninios");
 	var numero_ninios=objeto_select.value;
-	//Coger los input y mostrar tantos como haya seleccionado.
-	//Ojo porque el primer input es el del nombre.
-	var lista_inputs=document.getElementsByTagName("input");
-	for(i=1; i<lista_inputs.length-1; i++)
-	{
-		lista_inputs[i].className="oculto";
-	}
-	for (i=1; i<=numero_ninios; i++)
-	{
-		lista_inputs[i].className="mostrado";
-	}
+	//Depura el programa y avewrigua los valores de a y c
+	var a=4*Math.sin(Math.PI / 2);
+	var c=3*Math.cosh(37);
+	//a=
+	//c=
+	
 }
 function validar()
 {
