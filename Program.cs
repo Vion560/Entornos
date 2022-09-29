@@ -8,11 +8,11 @@ namespace depurar_cs
         {
             float a;
             float b;
-            float multiplicar;
-            Console.WriteLine("Vamos a multiplicar");
-            a = 11;
-            b = 7;
-            multiplicar = (a * b);
+            float dividir;
+            Console.WriteLine("Vamos a dividir");
+            a = 99;
+            b = 11;
+            dividir = a % b;
         }
     }
 }
