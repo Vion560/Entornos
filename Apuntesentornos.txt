@@ -1,0 +1,13 @@
+cuando compilas te da un .class en java y se compila con javac.
+c# se compila con csc y si hace un .exe.
+ruta compilador\t:exe\out:nombre.exe\ruta codigo.
+debugear con google chrome:
+herramientas para desarrolladores, te vas a sources y abres.
+haces click donde te interesa.
+debugear con edge:
+Es igual
+debugear con mozilla:
+en depurador y pones punto de ruptura(click) y ya.
+COMO SE COMPILA JAVA:
+
+
